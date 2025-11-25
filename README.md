@@ -1,3 +1,4 @@
 Un proyecto dado por la asignatura DAM, que solo nos pedia hacer hilos, chats basicos entre un servidor y cliente, echo's multicliente, y chats que se actualizaban cada vez que mandabas un mensaje (al estar en un unico hilo).
+<h3>nc [host-servidor] 5555</h3>
 Este proyecto nacio como una forma de yo entender como seria un chat en tiempo real, asi como para aprender mas sobre la asignatura, sobre sincronizacion (porque tuvo tela), y monitores-bloqueos.
 Para que quedara bonito, se podrian actualizar los mensajes de bienvenida, de cuando un cliente envia un mensaje, etc... pero eso es basico y lo complejo ya esta hecho, que es la logica del programa. Cualquiera de esos cambios es bienvenido
